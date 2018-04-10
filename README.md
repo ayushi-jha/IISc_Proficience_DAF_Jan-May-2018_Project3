@@ -9,8 +9,7 @@ Tasks: -
 3) Data cleaning
 4) Datasets and resources
 5) APIs
+6) Identifying Outliers
+7) Smoothing Data
 
 Sanity checks: Checking for missing data, formatting issues, etc.
-
-https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html
-https://www.kdnuggets.com/2016/10/data-preparation-tips-tricks-tools.html
