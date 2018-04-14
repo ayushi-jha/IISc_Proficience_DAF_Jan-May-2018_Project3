@@ -4,12 +4,9 @@ As part of Project while persuing the "Data Analysis - Fundamentals" course at P
 
 Tasks: -
 --------
-1) Data acquisition
-2) Data storage and handling
-3) Data cleaning
-4) Datasets and resources
-5) APIs
-6) Identifying Outliers
-7) Smoothing Data
+1) Data Reading (.csv)
+2) Data Cleaning (Sanity checks: Checking for missing data, formatting issues, etc.)
+3) Identifying Outliers
 
-Sanity checks: Checking for missing data, formatting issues, etc.
+
+
